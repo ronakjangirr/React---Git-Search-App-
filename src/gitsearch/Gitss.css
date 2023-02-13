@@ -1,0 +1,43 @@
+body{
+    padding: 0%;
+    margin:0%;
+    background-image: url("D:\React\crud1\public\Images\bgimg1.jpg");
+    background-size: cover;
+}
+
+.heading-style{
+    display: flex; 
+    justify-content: space-around;
+    margin: 10px;
+    box-shadow: 5px 18px 30px 2px #888888;
+    font-family: Copperplate, Papyrus, fantasy;
+    font-weight: 300px;
+    color: white;
+}
+
+.btn-style{
+    background-color:  #f8c471;
+}
+
+.style{
+    color: white;
+    font-size: 20px;
+}
+
+.div-style{
+    width: 400px; 
+    margin: auto; 
+    margin-top: 50px;
+}
+
+.div-style2{
+    display: flex;
+    justify-content: space-around;
+}
+
+.div-style3{
+    width: 17rem; 
+    margin:auto; 
+    margin-top:20px;
+    margin-bottom:20px;
+}
